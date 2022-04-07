@@ -1,0 +1,83 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic ;
+}
+
+}
+.main{
+	background-image:url(pexels-dominika-roseclay-977737.jpg);
+	height: 100vh;
+	background-size:cover;
+	background-position: center;
+}
+ul{
+	float: right;
+	list-style-type:none ;
+	margin-top:25px;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: white ;
+	padding: 5px 20px;
+	border: 1px solid #transparent ;
+	transition: o.6s ease;
+}
+ul li a:hover{
+	background-color:#D3D3D3 ;
+	color:#000 ;
+}
+ul li.active a{
+	background-color:#D3D3D3 ;
+	color:#000 ;
+}
+.background img{
+	height: 100%;
+	width: auto;
+	height: auto;
+
+	}
+.logo img{
+	float: left;
+	width: 100px;
+	height: auto;
+	margin-top: -5px;
+	margin-left: 10px;
+}
+main{
+	max-width: 1200px;
+	margin:auto;
+}
+.tittle{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.tittle h1{
+	color: lightcyan;
+	font-size: 70px;
+
+}
+.button{
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.btn{
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.6 ease ;
+
+}
+.btn:hover{
+	background-color:#fff ;
+	color:#000 ;
+
+}

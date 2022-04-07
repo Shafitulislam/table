@@ -1,0 +1,33 @@
+.tittle{
+	color: blue;
+	size: 20%;
+	padding: 10px;
+	background-color:#000;
+	border: 1.1px solid red;
+	color: white;
+}
+
+.vedio2{
+	color: maroon;
+	font-style: inherit;
+	margin: 10px;
+	box-shadow: lightblue;
+}
+.grey{
+	background-color:#556b2f;
+
+}
+.bg_blue{
+	color: white;
+}
+.fig{
+	margin:2px 50px;
+}
+
+.contact2{
+	color: white;
+	background-color:solid black;
+}
+.lightblue{
+	color:lightblue;
+}

@@ -1,0 +1,332 @@
+.message{
+	font-size: 18px;
+	padding: 10px;
+}
+table{
+	width: 100%;
+	border: 1px solid black;
+}
+th,td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+
+}
+td:hover{
+	background-color: lightblue;
+}
+.hader{
+	height: 100px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+
+}
+.logo{
+	height: 80px;
+	background-color:gray;
+	width: 98%;
+	margin right:10px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+.Navigation{
+	height: 50px;
+	background-color: gray;
+	width: 98%;
+	margin right:10px;
+	margin-left: 10px;
+}
+.banner{
+	height: 100px;
+	background-color:gray;
+	width: 98%;
+	margin-top: 10px;
+	margin right:10px;
+	margin-left: 10px;
+}
+
+.blog{
+	height: 350px;
+	background-color: gray;
+	width: 30%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+	
+}
+.contact{
+	height: 350px;
+	background-color: gray;
+	width: 67%;
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin left:10px;
+	margin-right: 12PX;
+}
+.Footer{
+	height: 50px;
+	background-color: gray;
+	width: 98%;
+	margin-top: 15Px;
+	margin-left: 10px;
+	margin-right: 10px;
+	clear: both;
+}
+.Intro{
+	
+	height: 100px;
+	background-color:gray;
+	width: 98%;
+	margin-top: 10px;
+	margin right:10px;
+	margin-left: 10px;
+}
+.box-1{
+	height: 350px;
+	background-color: gray;
+	width: 32%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+
+}
+.box-2{
+	height: 350px;
+	background-color: gray;
+	width: 32%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.box-3{
+	height: 350px;
+	background-color: gray;
+	width: 32%;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+.footer-2{
+	height: 50px;
+	background-color: gray;
+	width: 98%;
+	margin-top: 15Px;
+	margin-left: 10px;
+	margin-right: 10px;
+	clear: both;
+}
+.sidebar{
+	height: 500px;
+	background-color:ghostwhite;
+	width: 30%;
+	margin-top: 15Px;
+	margin-left: 10px;
+	padding-top: 230px;
+	float: left;
+}
+.banner-3{
+	height: 100px;
+	background-color: gray;
+	width: 67%;
+	float: right;
+	margin-top: 10px;
+	margin-left: 13px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	padding-top: 50px;
+}
+.barea-3{
+	height: 390px;
+	background-color: gray;
+	width: 67%;
+	float: right;
+	margin-top: 10px;
+	margin-left: 13px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	padding-top: 190px
+}
+.smallboxA1{
+	height: 100px;
+	background-color: gray;
+	width: 23.3%;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.smallboxB1{
+	height: 100px;
+	background-color: gray;
+	width: 23.3%;
+	float: left;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+
+}
+.smallboxC1{
+	height: 100px;
+	background-color: gray;
+	width: 23.35%;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.smallboxD1{
+	height: 100px;
+	background-color: gray;
+	width: 23.35%;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.smallboxA2{
+	height: 100px;
+	background-color: gray;
+	width: 23.3%;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.smallboxB2{
+	height: 100px;
+	background-color: gray;
+	width: 23.3%;
+	float: left;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.smallboxC2{
+	height: 100px;
+	background-color: gray;
+	width: 23.35%;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.smallboxD2{
+	height: 100px;
+	background-color: gray;
+	width: 23.35%;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.smallboxA3{
+	height: 100px;
+	background-color: gray;
+	width: 23.3%;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.smallboxB3{
+	height: 100px;
+	background-color: gray;
+	width: 23.3%;
+	float: left;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.smallboxC3{
+	height: 100px;
+	background-color: gray;
+	width: 23.35%;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.smallboxD3{
+	height: 100px;
+	background-color: gray;
+	width: 23.35%;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.smallboxA4{
+	height: 100px;
+	background-color: gray;
+	width: 23.3%;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.smallboxB4{
+	height: 100px;
+	background-color: gray;
+	width: 23.3%;
+	float: left;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.smallboxC4{
+	height: 100px;
+	background-color: gray;
+	width: 23.35%;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.smallboxD4{
+	height: 100px;
+	background-color: gray;
+	width: 23.35%;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.boxA{
+	height: 150px;
+	background-color: gray;
+	width: 32.5%;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.boxB{
+	height: 150px;
+	background-color: gray;
+	width: 32.5%;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.boxC{
+	height: 150px;
+	background-color: gray;
+	width: 32.5%;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.Footerf{
+	height: 50px;
+	background-color: gray;
+	width: 99%;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	clear: both;
+}
+.Footers{
+	height: 50px;
+	background-color: gray;
+	width: 98%;
+	margin-top: 15Px;
+	margin-left: 10px;
+	margin-right: 10px;
+	clear: both;
+}
